@@ -20,25 +20,25 @@ This report analyzes ~51,000 global orders (2011–2014) across 7 markets, 3 pro
 
 High-level KPIs, sales trend, YoY growth by category, sales by market.
 
-![Executive Summary](screenshots/executive summary.png)
+![Executive Summary](screenshots/executive_summary.png)
 
 ### Sales Performance
 
 Sales by sub-category and region, sales-vs-profit scatter analysis.
 
-![Sales Performance](screenshots/sales performance.png)
+![Sales Performance](screenshots/sales_performance.png)
 
 ### Customer Analytics
 
 Segment breakdown, top customers, average sales/orders per customer (RFM-style view).
 
-![Customer Analytics](screenshots/customer analytics.png)
+![Customer Analytics](screenshots/customer_analytics.png)
 
 ### Product Intelligence
 
 Profitability matrix by category/sub-category, most & least profitable products.
 
-![Product Intelligence](screenshots/product intelligence.png)
+![Product Intelligence](screenshots/product_intelligence.png)
 
 ### Forecasting
 
